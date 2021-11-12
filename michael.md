@@ -14,4 +14,6 @@ He's Dope.
 
 - He's a tricky guy, he has hid a hint in the commit message of the 2nd commit. Extract it, follow it and then move unto next instructions. 
 
-- Now, you can merge the michael branch to branch jim.
+- Now, you can merge the jim branch to michael branch and give conflict priority to changes in jim branch.
+
+- I see you have reached a milestone. Now wait till new updates are pushed and meanwhile I have a question for you "Which bears are best blue or black?".
